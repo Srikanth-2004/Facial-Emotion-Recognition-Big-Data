@@ -1,5 +1,6 @@
 # Facial-Emotion-Recognition-Big-Data
 A simple facial emotion recognition software made using python.
+**IMP: Be sure to keep all the files in the same folder**
 For the python program to work be sure to install cv2, deepface and pandas if necessary. It can be installed by inserting the following command in command prompt:
 ### For cv2
 ```
